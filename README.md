@@ -30,6 +30,7 @@ bun run index.ts
 In a test success, we'll see both console logs.
 
 > Running…
+>
 > …Survived!
 
 
